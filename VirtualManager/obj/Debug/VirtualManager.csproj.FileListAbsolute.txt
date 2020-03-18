@@ -1,0 +1,4 @@
+E:\Desktop Dev\Droitech Games\VirtualManager\VirtualManager\bin\Debug\VirtualManager.dll
+E:\Desktop Dev\Droitech Games\VirtualManager\VirtualManager\bin\Debug\VirtualManager.pdb
+E:\Desktop Dev\Droitech Games\VirtualManager\VirtualManager\obj\Debug\VirtualManager.dll
+E:\Desktop Dev\Droitech Games\VirtualManager\VirtualManager\obj\Debug\VirtualManager.pdb
